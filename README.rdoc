@@ -14,4 +14,4 @@ Adds a quantize() method to the Integer class. Rounds any integer to the nearest
 
 == Copyright
 
-Copyright (c) 2009 Bruce James. See LICENSE for details.
+Copyright (c) 2010 Bruce James. See LICENSE for details.
