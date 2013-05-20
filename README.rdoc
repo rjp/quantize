@@ -1,6 +1,6 @@
 = Quantize
 
-Adds a quantize() method to the Integer class. Rounds any integer to the nearest multiple of the supplied number.
+Adds a quantize() method to the Integer class. Floors any integer to the nearest lower multiple of the supplied number.
 
 == Briefly
 
